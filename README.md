@@ -1,4 +1,4 @@
-Angular Socialshare
+Angular Socialshare Pubic Project, please push to this repo to update package to v16+ 
 ==================
 
 ![Angular socialshare](http://i.imgur.com/dvoeyBu.png)
@@ -14,7 +14,7 @@ The Angular Socialshare is developed by [720kb](http://720kb.net).
 #### Requirements
 
 
-AngularJS v1.3+
+AngularJS v16+
 
 #### Browser support
 
